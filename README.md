@@ -1,6 +1,6 @@
 # Predict-the-fruit
 
-[![Build Status](http://192.168.1.37:9090/buildStatus/icon?job=predictTheFruit)](http://192.168.1.37:9090/job/predictTheFruit/)
+[![Build Status](http://192.168.1.37:9090/buildStatus/icon?job=predictTheFruit)](http://192.168.1.37:9090/job/predictTheFruit)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 
 This is a machine learning model using [Decision tree](https://en.wikipedia.org/wiki/Decision_tree_model) algorithm to predict the fruits. The user has to input the weight of the fruit and the texture of the fruit if the fruit is smooth user have to put 1 otherwise 0.
