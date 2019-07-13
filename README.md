@@ -1,6 +1,6 @@
 # Predict-the-fruit
 
-https://img.shields.io/jenkins/build/http/localhost:9090/job/predictTheFruit/lastBuild/.svg
+![Jenkins](https://img.shields.io/jenkins/build/http/localhost:9090/job/predictTheFruit/lastBuild/.svg)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 
 This is a machine learning model using [Decision tree](https://en.wikipedia.org/wiki/Decision_tree_model) algorithm to predict the fruits. The user has to input the weight of the fruit and the texture of the fruit if the fruit is smooth user have to put 1 otherwise 0.
