@@ -9,10 +9,10 @@ labels = [1, 1, 0, 0, 0, 2, 2]
 
 classifier = tree.DecisionTreeClassifier()
 classifier = classifier.fit(features, labels)
-x = input("Weight of the fruit in gm?: ")
-y = input("Texture of the fruit? (put 1 if smooth 0 otherwise): ")
-#x = 130;
-#y = 0;
+#x = input("Weight of the fruit in gm?: ")
+#y = input("Texture of the fruit? (put 1 if smooth 0 otherwise): ")
+x = 130;
+y = 0;
 test = [x, y]
 result = (classifier.predict([test]))
 #print (classifier.predict([test]))
